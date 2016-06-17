@@ -1,0 +1,121 @@
+body {
+	background-color: black;
+}
+
+.darkness {
+	width: 100;
+	border: 4px solid white;
+	border-radius: 12%;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/75/a1/2b/75a12ba530fea16dd9ee9ba6fce519ae.jpg);
+}
+
+.title {
+	color: white;
+	text-align: center;
+	font-size: 2em;
+	margin-top: 2em;
+}
+
+
+.circle {
+  
+  
+  border-radius: 50%;
+  border: 3px solid black;
+  margin: 3em 33em 3em 33em;
+  padding: 1em 0 1em 0;
+  background: linear-gradient(transparent, black);
+  position: ;
+  float: ;
+  
+}
+
+
+h1 {
+  color: ;
+}
+
+.first {
+  display:inline-block;
+  border: 4px solid black;
+  border-radius: 20px 20px 2px 12px;
+  background: radial-gradient(transparent, lightblue);
+  margin-bottom: 2em;
+  margin-left:1em; 
+  margin-right:1em;
+  font-family: 'Orbitron', sans-serif;
+  padding: 1em;
+}
+
+
+.second {
+	display:inline-block;
+	border: 2px solid green;
+	border-radius: 0 30px 0 30px;
+	background: radial-gradient(circle,lightgreen, transparent);
+	text-align: center;
+	margin-bottom: 2em;
+	margin-left:1em; 
+    margin-right:1em;
+    padding-right: 2em; 
+    padding-left: 2em;
+}
+p {
+  text-align: auto;
+
+}
+.third {
+	display: inline-block;
+	border: 5px hidden blue;
+	border-radius: 12px 12px 12px 12px;
+	background: radial-gradient(lightyellow, black);
+	text-align: center;
+	margin-bottom: 2em;
+	margin-left:1em; 
+    margin-right:1em;
+    padding-top: 4em;
+    line-height: 27px;
+}
+
+
+.fourth {
+	display: inline-block;
+	border: 1.5px solid blue;
+	border-radius: 12px 12px 0 0;
+	background-image: url(http://cdn.mysitemyway.com/etc-mysitemyway/backgrounds/legacy-previews/backgrounds/wood/wood-002677-medium-purple.jpg);
+	text-align: center;
+	margin-bottom: 2em;
+	margin-left:1em; 
+    margin-right:1em;
+    line-height: 42px;
+}
+
+.fifth {
+	display: inline-block;
+	border: 4px inset blue;
+	border-radius: 0 0 80px 80px;
+	background: radial-gradient(lightyellow, black);
+	text-align: center;
+	margin-bottom: 2em;
+	margin-left:1em; 
+    margin-right:1em;
+    font-family: 'Lobster', cursive;
+}
+footer, h1 {
+	text-align: center;
+	margin-bottom: 2em;
+	font-weight: 900;
+}
+
+.nine {
+	color: white;
+}
+
+.eight {
+	color: yellow;
+}
+.seven {
+	color: darkred;
+}
+
+
